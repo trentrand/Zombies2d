@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Dec 10 12:58:35 MST 2011
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=Run_v1.jar
+manifest.mergeall=true
+manifest.mainclass=com.nightmare.Run.DesktopLauncher
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|Run_Desktop/resources>~bg.png;<inc|Run_Desktop/resources>~defaultfont.fnt;<inc|Run_Desktop/resources>~defaultfont.png;<inc|Run_Desktop/resources>~guiSheet.png;<inc|Run_Desktop/resources>~icon.png;<inc|Run_Desktop/resources>~nightmareapps.png;<inc|Run_Desktop/resources>~nightmareSheet.png;<inc|Run_Desktop/resources>~weaponsSheet.png;<inc|Run_Desktop/resources>~zombiefnt.fnt;<inc|Run_Desktop/resources>~zombiepng.png
